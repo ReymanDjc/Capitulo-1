@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nombre_Consola", "Nombre_Consola\Nombre_Consola.csproj", "{08623B8A-E95D-43BF-80D3-2155ACE0F285}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorCodigo", "Nombre_Consola\ErrorCodigo.csproj", "{08623B8A-E95D-43BF-80D3-2155ACE0F285}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
